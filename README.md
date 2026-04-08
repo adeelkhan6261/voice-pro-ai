@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/banner1.png" width="100%"/>
-</p>
 
 # 🎙️ Voice Pro AI
 
