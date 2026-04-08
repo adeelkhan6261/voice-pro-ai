@@ -1,9 +1,16 @@
-![Banner](https://raw.githubusercontent.com/adeelkhan6261/voice-pro-ai/main/assets/banner.png)
+<p align="center">
+  <img src="assets/banner1.png" width="100%"/>
+</p>
 
 # 🎙️ Voice Pro AI
 
-🚀 AI Voiceover Studio with long-form speech generation, realistic voices, and voice cloning.
+🚀 **AI Voiceover Studio with long-form speech generation, realistic voices, and voice cloning.**
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square"/>
+</p>
 ---
 
 ## ✨ Features
@@ -20,8 +27,8 @@
 ## 🖼️ Example Outputs
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adeelkhan6261/voice-pro-ai/main/assets/banner1.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/adeelkhan6261/voice-pro-ai/main/assets/banner2.png" width="250"/>
+  <img src="assets/banner1.png" width="250"/>
+  <img src="assets/banner2.png" width="250"/>
 </p>
 
 ---
@@ -39,12 +46,11 @@ python main.py
 
 ## 📌 Use Cases
 
-* YouTube Voiceovers
-* TikTok / Reels Content
-* Audiobooks
-* Podcasts
-* AI Narration
-
+- 🎥 YouTube voiceovers  
+- 📚 Audiobooks  
+- 🎮 Game narration  
+- 📢 Ads & marketing  
+- 🎙️ Podcast generation  
 ---
 
 ## 🔮 Future Updates
