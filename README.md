@@ -21,15 +21,6 @@
 
 ---
 
-## 🖼️ Example Outputs
-
-<p align="center">
-  <img src="assets/banner1.png" width="250"/>
-  <img src="assets/banner2.png" width="250"/>
-</p>
-
----
-
 ## 🚀 Installation
 
 ```bash
