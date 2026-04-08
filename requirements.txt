@@ -1,0 +1,6 @@
+edge-tts
+flask
+flask-cors
+gunicorn
+asyncio
+uuid
